@@ -151,4 +151,4 @@ The custom shuffle input accepts standard Rubik's cube notation:
 - **Whole cube**: X, Y, Z (clockwise) and x, y, z (counterclockwise)
 - **Double moves**: Add '2' to any move (e.g., U2, R2)
 - **Prime moves**: Add ' to any move for counterclockwise (e.g., U', R')
-
+https://rubiks-new.vercel.app/
